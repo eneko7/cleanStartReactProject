@@ -1,0 +1,1 @@
+Clean react config for new project
